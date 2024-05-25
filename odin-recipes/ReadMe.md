@@ -30,7 +30,3 @@ To run the Odin Recipes project locally, follow these steps:
 ## Credits
 
 This project was created by [Solomon Ng](https://github.com/solomonng2001) as part of The Odin Project curriculum.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
